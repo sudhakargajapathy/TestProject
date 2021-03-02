@@ -1,0 +1,15 @@
+/Users/sudhakargajapathy/Projects/TestProject/TestProject/bin/Debug/net5.0/TestProject.deps.json
+/Users/sudhakargajapathy/Projects/TestProject/TestProject/bin/Debug/net5.0/TestProject.runtimeconfig.json
+/Users/sudhakargajapathy/Projects/TestProject/TestProject/bin/Debug/net5.0/TestProject.runtimeconfig.dev.json
+/Users/sudhakargajapathy/Projects/TestProject/TestProject/bin/Debug/net5.0/TestProject.dll
+/Users/sudhakargajapathy/Projects/TestProject/TestProject/bin/Debug/net5.0/ref/TestProject.dll
+/Users/sudhakargajapathy/Projects/TestProject/TestProject/bin/Debug/net5.0/TestProject.pdb
+/Users/sudhakargajapathy/Projects/TestProject/TestProject/obj/Debug/net5.0/TestProject.csprojAssemblyReference.cache
+/Users/sudhakargajapathy/Projects/TestProject/TestProject/obj/Debug/net5.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sudhakargajapathy/Projects/TestProject/TestProject/obj/Debug/net5.0/TestProject.AssemblyInfoInputs.cache
+/Users/sudhakargajapathy/Projects/TestProject/TestProject/obj/Debug/net5.0/TestProject.AssemblyInfo.cs
+/Users/sudhakargajapathy/Projects/TestProject/TestProject/obj/Debug/net5.0/TestProject.csproj.CoreCompileInputs.cache
+/Users/sudhakargajapathy/Projects/TestProject/TestProject/obj/Debug/net5.0/TestProject.dll
+/Users/sudhakargajapathy/Projects/TestProject/TestProject/obj/Debug/net5.0/ref/TestProject.dll
+/Users/sudhakargajapathy/Projects/TestProject/TestProject/obj/Debug/net5.0/TestProject.pdb
+/Users/sudhakargajapathy/Projects/TestProject/TestProject/obj/Debug/net5.0/TestProject.genruntimeconfig.cache

@@ -1,0 +1,4 @@
+/Users/sudhakargajapathy/Projects/TestProject/TestProject/bin/Release/net5.0/publish/TestProject.dll
+/Users/sudhakargajapathy/Projects/TestProject/TestProject/bin/Release/net5.0/publish/TestProject.deps.json
+/Users/sudhakargajapathy/Projects/TestProject/TestProject/bin/Release/net5.0/publish/TestProject.runtimeconfig.json
+/Users/sudhakargajapathy/Projects/TestProject/TestProject/bin/Release/net5.0/publish/TestProject.pdb
