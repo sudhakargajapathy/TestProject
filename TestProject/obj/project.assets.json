@@ -20,7 +20,7 @@
       "outputPath": "/Users/sudhakargajapathy/Projects/TestProject/TestProject/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/sudhakargajapathy/.nuget/NuGet/NuGet.Config"
+        "/Users/sudhakargajapathy/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
